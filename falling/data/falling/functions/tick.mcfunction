@@ -1,0 +1,2 @@
+execute in minecraft:overworld positioned 0 0 0 as @e[distance=0..] at @s as @s[y=-236,dy=132] in minecraft:the_nether run tp @s ~ ~512 ~
+#execute in minecraft:the_nether positioned 0 0 0 as @a[distance=0..] at @s run fill ~-32 124 ~-32 ~32 128 ~32 air replace minecraft:bedrock

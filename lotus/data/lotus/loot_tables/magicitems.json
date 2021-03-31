@@ -1,0 +1,117 @@
+{"type":"generic",
+"pools":[
+	{
+	"rolls": 1,
+	"entries":[
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Silver Sword\",\"color\":\"reset\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Divine Smite\",\"color\":\"aqua\",\"italic\":false},{\"text\":\" for 25 mana\",\"color\":\"white\",\"italic\":false}]','{\"text\":\" \"}','{\"text\":\"When in main hand:\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"1.7 Attack Speed\",\"color\":\"dark_green\",\"italic\":false}','{\"text\":\"7 Attack Damage\",\"color\":\"dark_green\",\"italic\":false}']},Unbreakable:1b,CustomModelData:10,CustomItem:1,AttributeModifiers:[{AttributeName:\"generic.attackDamage\",Name:\"generic.attackDamage\",Amount:6,Operation:0,UUIDLeast:432299,UUIDMost:902616,Slot:\"mainhand\"},{AttributeName:\"generic.attackSpeed\",Name:\"generic.attackSpeed\",Amount:-1.3,Operation:0,UUIDLeast:945714,UUIDMost:864884,Slot:\"mainhand\"}],HideFlags:2}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Ruby Staff\",\"color\":\"dark_red\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Sanguine Beam\",\"color\":\"dark_red\"},{\"text\":\" for 10 mana \",\"color\":\"white\",\"italic\":false}]','{\"text\":\"AND YOUR SOUL\",\"color\":\"dark_red\",\"bold\":true,\"italic\":true}']},HideFlags:4,Unbreakable:1b,CustomModelData:1,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Emerald Staff\",\"color\":\"green\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Teleportation\",\"color\":\"green\"},{\"text\":\" for 20 mana \",\"color\":\"white\",\"italic\":false}]']},HideFlags:4,Unbreakable:1b,CustomModelData:2,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Sapphire Staff\",\"color\":\"dark_blue\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Chill\",\"color\":\"dark_blue\"},{\"text\":\" for 15 mana \",\"color\":\"white\",\"italic\":false}]']},HideFlags:4,Unbreakable:1b,CustomModelData:3,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Onyx Staff\",\"color\":\"dark_gray\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Fangs of Hadar\",\"color\":\"dark_gray\",\"italic\":false},{\"text\":\" for 10 mana\",\"color\":\"white\",\"italic\":false}]','{\"text\":\"Executes enemies under half health\",\"color\":\"dark_gray\",\"italic\":false}']},HideFlags:4,Unbreakable:1b,CustomModelData:4,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Golden Staff\",\"color\":\"gold\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Destruction Beam\",\"color\":\"gold\",\"italic\":false},{\"text\":\" for 5 mana\",\"color\":\"white\",\"italic\":false}]']},HideFlags:4,Unbreakable:1b,CustomModelData:11,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Diamond Ring\",\"color\":\"aqua\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Unbreakable\",\"color\":\"aqua\",\"italic\":false},{\"text\":\" for 6.6 mana per second\",\"color\":\"white\",\"italic\":false}]']},HideFlags:4,Unbreakable:1b,CustomModelData:5,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Ruby Siphon Ring\",\"color\":\"dark_red\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Leech Aura\",\"color\":\"dark_red\",\"italic\":false},{\"text\":\" for 4 mana per second\",\"italic\":false}]']},HideFlags:4,Unbreakable:1b,CustomModelData:6,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Sapphire Siphon Ring\",\"color\":\"dark_blue\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Leech Aura\",\"color\":\"dark_blue\",\"italic\":false},{\"text\":\" for 1.3 mana per second\",\"italic\":false}]']},HideFlags:4,Unbreakable:1b,CustomModelData:7,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Orange Charred Ring\",\"color\":\"gold\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Firewalking\",\"color\":\"gold\",\"italic\":false},{\"text\":\" for 4 mana per second\",\"italic\":false}]']},HideFlags:4,Unbreakable:1b,CustomModelData:9,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:shield",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Enchanted Shield\",\"color\":\"dark_blue\",\"italic\":false}',Lore:['[{\"text\":\"Blocking restores \",\"color\":\"white\",\"italic\":false},{\"text\":\"mana\",\"color\":\"dark_blue\",\"italic\":false}]']},Unbreakable:1b,CustomModelData:1,CustomItem:1,BlockEntityTag:{Base:3,Patterns:[{Color:14,Pattern:\"mr\"},{Color:3,Pattern:\"mc\"},{Color:0,Pattern:\"bo\"}]},HideFlags:32}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":1,
+		"name":"minecraft:shield",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Blast Shield\",\"color\":\"gold\",\"italic\":false}',Lore:['[{\"text\":\"Blocking flings enemies away\",\"color\":\"gold\",\"italic\":false}]']},Unbreakable:1b,CustomModelData:2,CustomItem:1,HideFlags:32,BlockEntityTag:{Base:14,Patterns:[{Color:1,Pattern:\"mc\"},{Color:4,Pattern:\"flo\"},{Color:1,Pattern:\"bo\"}]}}"}
+		]
+		}
+	]
+	}
+]
+}

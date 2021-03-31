@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:fire",
+	"minecraft:grass",
+	"minecraft:fern",
+	"minecraft:vine",
+	"minecraft:tall_grass",
+	"minecraft:large_fern",
+	"minecraft:lily_pad",
+	"minecraft:sugar_cane",
+	"minecraft:tripwire",
+	"minecraft:snow",
+	"minecraft:cobweb"
+  ]
+}

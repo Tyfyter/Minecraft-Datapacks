@@ -1,0 +1,4 @@
+{
+  "function": "minecraft:set_nbt",
+  "tag": "{Items:[{id:\"splash_potion\",Count:16,tag:{Potion:\"water\"}}]}"
+}

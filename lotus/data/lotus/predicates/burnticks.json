@@ -1,0 +1,23 @@
+{
+  "condition": "minecraft:inverted",
+  "term": {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+		  "condition": "minecraft:reference",
+		  "name": "lotus:burnorhell"
+        }
+      },
+      {
+        "condition": "minecraft:inverted",
+        "term": {
+          "condition": "minecraft:time_check",
+          "value": 0,
+          "period": 15
+        }
+      }
+    ]
+  }
+}

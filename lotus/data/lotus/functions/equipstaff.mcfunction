@@ -1,0 +1,2 @@
+title @s actionbar [{"score":{"name":"@s","objective":"mana"},"color":"dark_blue"},{"text":"/"},{"score":{"name":"@s","objective":"maxmana"},"color":"dark_blue"}]
+execute as @s[scores={carrotstick=1..}] run function lotus:pickspell

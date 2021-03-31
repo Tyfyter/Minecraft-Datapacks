@@ -1,0 +1,17 @@
+scoreboard objectives add usingring dummy
+scoreboard objectives add maxmana dummy
+scoreboard objectives add mana dummy
+scoreboard objectives add manaregen dummy
+scoreboard objectives add manaregentime dummy
+scoreboard objectives add manaregencd dummy
+scoreboard objectives add bonusmanacd dummy
+scoreboard objectives add bonusmanaregen dummy
+scoreboard objectives add hp dummy
+scoreboard objectives add health dummy
+scoreboard objectives add halfhp dummy
+scoreboard objectives add ringeffect dummy
+scoreboard objectives add healcount dummy
+scoreboard objectives add variable dummy
+scoreboard objectives add block minecraft.custom:minecraft.damage_blocked_by_shield
+scoreboard objectives add carrotstick minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add sneaking minecraft.custom:minecraft.sneak_time

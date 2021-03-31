@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:air",
+    "minecraft:cave_air",
+	"#minecraft:flowers",
+	"#minecraft:rails",
+	"#minecraft:buttons",
+	"minecraft:fire",
+	"minecraft:grass",
+	"minecraft:fern",
+	"minecraft:vine",
+	"minecraft:tall_grass",
+	"minecraft:large_fern",
+	"minecraft:lily_pad",
+	"minecraft:sugar_cane",
+	"minecraft:redstone_wire",
+	"minecraft:redstone_torch",
+	"minecraft:repeater",
+	"minecraft:comparator",
+	"minecraft:snow",
+	"minecraft:red_mushroom",
+	"minecraft:brown_mushroom",
+	"minecraft:water",
+	"minecraft:lava"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:totem_of_undying"
+        }
+      ]
+    },
+	{
+	  "rolls": 1,
+	  "entries": [
+		{"type":"item",
+		"weight":1,
+		"quality":2,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Onyx Staff\",\"color\":\"dark_gray\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Fangs of Hadar\",\"color\":\"dark_gray\",\"italic\":false},{\"text\":\" for 10 mana\",\"color\":\"white\",\"italic\":false}]','{\"text\":\"Executes enemies under half health\",\"color\":\"dark_gray\",\"italic\":false}']},HideFlags:4,Unbreakable:1b,CustomModelData:4,CustomItem:1}"}
+		]
+		},
+		{"type":"empty",
+		"weight":3
+		}
+	  ]
+	},
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 1.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            }
+          ],
+          "name": "minecraft:emerald"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+    }
+  ]
+}

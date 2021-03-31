@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick{display:{Name:'{"text":"Magic Mirror","color":"aqua","italic":false}',Lore:['[{"text":"Right click to ","color":"white","italic":false},{"text":"return home","color":"aqua"}]']},HideFlags:4,Unbreakable:1b,CustomModelData:19,CustomItem:1}

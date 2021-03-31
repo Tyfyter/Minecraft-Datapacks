@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+   "minecraft:tripwire",
+   "#minecraft:slabs",
+   "#vanillafix:redstone"
+  ]
+}

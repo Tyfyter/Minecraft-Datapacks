@@ -1,0 +1,202 @@
+{"type":"entity",
+"pools":[
+	{
+	"rolls": 1,
+	"bonus_rolls": {
+		"min": 0,
+		"max": 1
+	},
+	"entries":[
+	{"type":"loot_table",
+		"weight":7,
+		"quality":-10,
+		"name":"minecraft:empty"
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":5,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Ruby Staff\",\"color\":\"dark_red\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Sanguine Beam\",\"color\":\"dark_red\"},{\"text\":\" for 10 mana \",\"color\":\"white\",\"italic\":false}]','{\"text\":\"AND YOUR SOUL\",\"color\":\"dark_red\",\"bold\":true,\"italic\":true}']},HideFlags:4,Unbreakable:1b,CustomModelData:1,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":5,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Emerald Staff\",\"color\":\"green\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Teleportation\",\"color\":\"green\"},{\"text\":\" for 20 mana \",\"color\":\"white\",\"italic\":false}]']},HideFlags:4,Unbreakable:1b,CustomModelData:2,CustomItem:1}"}
+		]
+		},
+		{"type":"item",
+		"weight":1,
+		"quality":5,
+		"name":"minecraft:carrot_on_a_stick",
+		"functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Sapphire Staff\",\"color\":\"dark_blue\",\"italic\":false}',Lore:['[{\"text\":\"Right click to cast \",\"color\":\"white\",\"italic\":false},{\"text\":\"Chill\",\"color\":\"dark_blue\"},{\"text\":\" for 15 mana \",\"color\":\"white\",\"italic\":false}]']},HideFlags:4,Unbreakable:1b,CustomModelData:3,CustomItem:1}"}
+		]
+		}
+	]
+	},
+	{
+      "rolls": {
+        "min": 1.0,
+        "max": 3.0,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            }
+          ],
+          "name": "minecraft:glowstone_dust"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            }
+          ],
+          "name": "minecraft:sugar"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            }
+          ],
+          "name": "minecraft:redstone"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            }
+          ],
+          "name": "minecraft:spider_eye"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            }
+          ],
+          "name": "minecraft:glass_bottle"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            }
+          ],
+          "name": "minecraft:gunpowder"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            }
+          ],
+          "name": "minecraft:stick"
+        }
+      ]
+    }
+]
+}

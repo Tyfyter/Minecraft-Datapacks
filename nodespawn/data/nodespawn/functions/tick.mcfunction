@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:item] if predicate nodespawn:inorganic run data modify entity @s Age set value 0

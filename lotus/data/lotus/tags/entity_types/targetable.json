@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#lotus:hostile",
+	"minecraft:sheep",
+	"minecraft:cow",
+	"minecraft:chicken",
+	"minecraft:pig",
+	"minecraft:squid",
+	"minecraft:pufferfish"
+  ]
+}
