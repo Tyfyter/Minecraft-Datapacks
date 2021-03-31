@@ -1,0 +1,104 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data":1
+            },
+            "model": "item/ruby_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data":2
+            },
+            "model": "item/emerald_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data":3
+            },
+            "model": "item/saphire_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data":4
+            },
+            "model": "item/onyx_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data":5
+            },
+            "model": "item/diamond_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data":6
+            },
+            "model": "item/ruby_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data":7
+            },
+            "model": "item/saphire_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data":9
+            },
+            "model": "item/orange_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data":10
+            },
+            "model": "item/silver_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data":11
+            },
+            "model": "item/drill_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data":12
+            },
+            "model": "item/fire_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data":13
+            },
+            "model": "item/ice_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data":14
+            },
+            "model": "item/water_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data":15
+            },
+            "model": "item/emerald_staff_plus"
+        },
+        {
+            "predicate": {
+                "custom_model_data":16
+            },
+            "model": "item/ruby_staff_plus"
+        },
+        {
+            "predicate": {
+                "custom_model_data":19
+            },
+            "model": "item/"
+        }
+    ]
+}

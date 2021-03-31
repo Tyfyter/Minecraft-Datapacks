@@ -1,0 +1,28 @@
+{
+    "parent": "item/bow",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0.5, -1.55, 1 ],
+            "scale": [ 0.3, 0.3, 0.3 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0.5, -1.55, 1 ],
+            "scale": [ 0.3, 0.3, 0.3 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 2, 2, 2],
+            "scale": [ 0.3, 0.3, 0.3 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 2, 2, 2],
+            "scale": [ 0.3, 0.3, 0.3 ]
+        }
+    },
+    "textures": {
+        "layer0": "item/saphire_ring"
+    }
+}
